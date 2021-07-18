@@ -1,2 +1,2 @@
 # my_calculator
-A simple calculator app using java for backend and xml for the layouts.
+A simple calculator app using java for calci logic and xml for the app layouts.
